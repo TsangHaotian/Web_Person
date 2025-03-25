@@ -1,5 +1,8 @@
 # 个人自我介绍网页
 
+![GitHub stars](https://img.shields.io/github/stars/TsangHaotian/Web_Truth_or_dare?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TsangHaotian/Web_Truth_or_dare?style=social)
+
 一个简洁美观的 HTML/CSS 个人介绍页面，展示基本信息、技能、经历和联系方式。
 
 ## ✨ 功能特性
